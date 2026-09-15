@@ -24,7 +24,7 @@ O arquivo `.github/workflows/deploy-pages.yml` publica automaticamente a aplica�
 3. Em **Settings → Pages**, selecione **GitHub Actions** como fonte.
 4. O workflow fará o build e a publicação do site.
 
-O CTA da landing page está preparado com a âncora `#checkout`. Substitua a constante `checkoutUrl` em `client/src/pages/Home.tsx` pelo endereço real do checkout quando ele estiver definido.
+O checkout da landing page está integrado ao Hotmart em `https://pay.hotmart.com/G107622378P`. Os CTAs principais da página apontam para esse endereço externo.
 
 ## Conteúdo
 

@@ -20,7 +20,7 @@ import {
   X,
 } from "lucide-react";
 
-const checkoutUrl = "#checkout";
+const checkoutUrl = "https://pay.hotmart.com/G107622378P";
 
 const documents = [
   ["01", "Contrato Master de Fornecedor Corporativo", "Estrutura documental para relações com fornecedores de operações audiovisuais."],
